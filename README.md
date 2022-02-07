@@ -1,4 +1,6 @@
 # What is OceanBase Database
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcitwip%2Foceanbase.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcitwip%2Foceanbase?ref=badge_shield)
+
 
 OceanBase Database is a native distributed relational database. It is developed entirely by Alibaba and Ant Group. OceanBase Database is built on a common server cluster. Based on the Paxos protocol and its distributed structure, OceanBase Database provides high availability and linear scalability. OceanBase Database is not dependent on specific hardware architectures.
 
@@ -43,6 +45,9 @@ Refer to the [Get Started guide](docs/docs/docs-en/quick-start-en.md) to try out
 
 OceanBase Database is under [MulanPubL - 2.0](http://license.coscl.org.cn/MulanPubL-2.0) license. You can freely copy and use the source code. When you modify or distribute the source code, please obey the MulanPubL - 2.0 license.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcitwip%2Foceanbase.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcitwip%2Foceanbase?ref=badge_large)
+
 ## OS compatibility list
 
 | OS | Ver. | Arch | Compilable | Package Deployable | Compiled Binary Deployable | Mysqltest Passed |
@@ -81,4 +86,4 @@ In case you have any problems when using OceanBase Database, welcome reach out f
 
 ## Roadmap
 
-Please refer to [Roadmap](https://github.com/oceanbase/oceanbase/wiki/roadmap) for details. 
+Please refer to [Roadmap](https://github.com/oceanbase/oceanbase/wiki/roadmap) for details.
